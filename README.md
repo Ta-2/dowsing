@@ -1,4 +1,4 @@
-# dowsing
+# dowsing game
 downsing game
 url:https://downsing.netlify.app/
 
